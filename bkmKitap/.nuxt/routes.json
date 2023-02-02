@@ -1,0 +1,56 @@
+[
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "C:\\\\Users\\\\turga\\\\OneDrive\\\\Masaüstü\\\\bkmkitap1\\\\bkmKitap\\\\pages\\\\cart.vue",
+    "chunkName": "pages/cart"
+  },
+  {
+    "name": "checkout",
+    "path": "/checkout",
+    "component": "C:\\\\Users\\\\turga\\\\OneDrive\\\\Masaüstü\\\\bkmkitap1\\\\bkmKitap\\\\pages\\\\checkout.vue",
+    "chunkName": "pages/checkout"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\Users\\\\turga\\\\OneDrive\\\\Masaüstü\\\\bkmkitap1\\\\bkmKitap\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\turga\\\\OneDrive\\\\Masaüstü\\\\bkmkitap1\\\\bkmKitap\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "C:\\\\Users\\\\turga\\\\OneDrive\\\\Masaüstü\\\\bkmkitap1\\\\bkmKitap\\\\pages\\\\products.vue",
+    "chunkName": "pages/products"
+  },
+  {
+    "name": "secret",
+    "path": "/secret",
+    "component": "C:\\\\Users\\\\turga\\\\OneDrive\\\\Masaüstü\\\\bkmkitap1\\\\bkmKitap\\\\pages\\\\secret.vue",
+    "chunkName": "pages/secret"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "C:\\\\Users\\\\turga\\\\OneDrive\\\\Masaüstü\\\\bkmkitap1\\\\bkmKitap\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup"
+  },
+  {
+    "name": "products-details-id",
+    "path": "/products-details/:id?",
+    "component": "C:\\\\Users\\\\turga\\\\OneDrive\\\\Masaüstü\\\\bkmkitap1\\\\bkmKitap\\\\pages\\\\products-details\\\\_id.vue",
+    "chunkName": "pages/products-details/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\turga\\\\OneDrive\\\\Masaüstü\\\\bkmkitap1\\\\bkmKitap\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
